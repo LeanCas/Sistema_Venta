@@ -1,0 +1,16 @@
+mat-card-title {
+    padding: 15px !important;
+}
+
+.dashboard-card-content{
+    padding-top: 10px;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaDeVenta.API",
+    "\\SistemaDeVenta.API\\Controllers",
+    "\\SistemaVenta.DAL",
+    "\\SistemaVenta.DAL\\Repositorios",
+    "\\SistemaVenta.DTO"
+  ],
+  "SelectedNode": "\\SistemaDeVenta.API\\Controllers\\VentaController.cs",
+  "PreviewInSolutionExplorer": false
+}
